@@ -1,3 +1,2 @@
-proxies:
-  - {'name': '🇫🇷FR-149.202.82.172-0000', 'server': '149.202.82.172', 'port': 5003, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
-  - {'name': '🇫🇷FR-149.202.82.172-0001', 'server': '149.202.82.172', 'port': 5001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+vmess://ewogICAgImFkZCI6ICIxNTQuMTIuNTMuMzMiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjY4YmJkZjMtNDBkZC00ZDYyLWFlMGEtOTk4ZmU4NTk2MDdkIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6ICIyNzcxOCIsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNTQuMTIuNTMuMzMtMDIzNiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
+vmess://ewogICAgImFkZCI6ICIxMDMuMjU0Ljc0LjI5IiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImRmZDAwOTgxLTZlMDQtNDkyYi1hYmU5LWI4YzBjODkzYmQyMSIsCiAgICAibmV0IjogInRjcCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiNDY0ODYiLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTAzLjI1NC43NC4yOS0wMjUyIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
